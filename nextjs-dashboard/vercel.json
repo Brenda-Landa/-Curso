@@ -1,13 +1,6 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/node"
-    }
-  ],
-  "env": {
+    "env": {
     "PNPM_VERSION": "7.7.0"
   },
   "installCommand": "pnpm install"
 }
-
