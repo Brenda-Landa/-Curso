@@ -1,6 +1,6 @@
 {
     "env": {
-    "PNPM_VERSION": "7.7.0"
+    "PNPM_VERSION": "6.32.3"
   },
   "installCommand": "pnpm install"
 }
